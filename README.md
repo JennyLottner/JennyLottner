@@ -24,7 +24,7 @@ I'm a full-stack and frontend developer with a B.S. in Biology and Psychology, w
 - **Frontend**: React, Vue.js, Angular, Redux, React Router, Material-UI, Chart.js, Vuex, Vue Router, NgRx
 - **Backend**: Node.js, Express
 - **API Handling**: RESTful APIs, Socket.io
-- **Database**: MongoDB
+- **Database**: MongoDB, SQL
 - **Deployment & Hosting**: Render, Cloudinary
 - **Performance Optimization**: Code splitting, Memoization
 - **Tools**: GitHub, Vite, NPM
